@@ -1,0 +1,42 @@
+html{
+    background-color: floralwhite;
+    font-family: arial;
+}
+
+.mainHeading { 
+    text-align: center;
+    
+
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+  .city  {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    }
+
+.border {
+    background-color: burlywood;
+    height: 2px;
+    width: 95%;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;   
+}
+
+h2{
+    margin-bottom: 8px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
